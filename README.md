@@ -6,7 +6,7 @@ How to setup FORLOCKER:
 
 3 - don't close the programm until it closes from itself
 
-4 - you are ready to go! the .exe file is in the frechly created folder called "dist"
+4 - you are ready to go! the .exe file is in the freshly created folder called "dist"
 
 
 How to use FORLOCKER for the first time:
